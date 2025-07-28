@@ -1,0 +1,6 @@
+Etapa 1: Transcrição
+
+A replicação do DNA é o processo pelo qual uma célula copia seu material genético antes da divisão celular. Esse processo ocorre no núcleo das células eucarióticas.
+Durante a replicação, a enzima helicase desenrola a dupla hélice do DNA, separando as duas fitas. Em seguida, a DNA polimerase adiciona novos nucleotídeos complementares às fitas originais,
+ormando duas novas moléculas idênticas de DNA. Outras enzimas importantes incluem a primase, que sintetiza primers de RNA, e a ligase, que une fragmentos de DNA.
+O produto final da replicação são duas moléculas de DNA idênticas, cada uma com uma fita original e uma nova — um processo chamado de replicação semiconservativa.
