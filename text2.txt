@@ -1,0 +1,9 @@
+Etapa 2 : Transcrição Nessa primeira fase a molécula de DNA se abre, e os códigos presentes no gene são transcritos para a molécula de RNA. 
+A enzima polimerase do RNA se liga a uma das extremidades do gene, separando as fitas de DNA e os ribonucleotídeos livres se emparelham com a fita de DNA que serve de molde.
+A sequência das bases nitrogenadas do RNA seguem exatamente a sequência de bases do DNA, segundo a seguinte regra:
+
+U com A (Uracila-RNA e Adenina-DNA),
+A com T (Adenina-RNA e Timina-DNA),
+C com G (Citosina-RNA e Guanina-DNA) e
+G com C (Guanina-RNA e Citosina-DNA).
+O que determina o início e o fim do gene que será transcrito são sequências específicas de nucleotídeos, o início é a região promotora do gene e o fim é a região terminal. A polimerase do RNA se encaixa na região promotora do gene e vai até a região terminal
