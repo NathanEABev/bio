@@ -1,0 +1,7 @@
+Etapa 3: tradução
+
+A tradução é o processo pelo qual a informação contida no RNA mensageiro (mRNA) é convertida em uma sequência de aminoácidos para formar proteínas. Esse processo ocorre no citoplasma das 
+células, mais especificamente nos ribossomos. Durante a tradução, o ribossomo lê o mRNA em códons, que são grupos de três nucleotídeos. O RNA transportador (tRNA), com a ajuda da enzima 
+aminoacil-tRNA sintetase, traz os aminoácidos correspondentes a cada códon. A peptidil transferase, uma atividade presente no ribossomo, catalisa a formação da ligação peptídica entre os 
+aminoácidos, alongando a cadeia polipeptídica. O produto final da tradução é uma cadeia polipeptídica, que se dobrará para formar uma proteína funcional. Esse processo é fundamental para 
+a expressão dos genes e para o funcionamento celular.
